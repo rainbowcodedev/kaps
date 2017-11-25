@@ -1,0 +1,58 @@
+body { background-color:#311001;
+       color:#FCFFDE;
+       font-family: Verdana, sans-serif;
+	   min-width: 700px;
+}
+h1 { background-color:#30282C;  
+     color:#FCFFDE;
+     font-family: Constantia, serif;
+	 height: 45px;}
+
+h2 { background-color:#30282C;
+     color:#FCFFDE;
+     font-family: Constantia, serif;
+}
+p {font-size:.90em;
+}
+ul {font-weight:bold;
+}
+
+header { background-color: #30282C;
+        color: #FCFFDE; 
+        font-size: 150%;
+	text-align: center;
+        padding: 10px 10px 10px 300px;
+		background-image: url(images/kookikapslogo.jpg); 
+		background-repeat: no-repeat;
+}
+
+header h1 { margin-bottom: 50px; }
+header h2 { margin: 50px; 
+		padding-right: 20px;
+		font-size: .80em;
+		font-style: italic;
+		text-align: right;
+		color: #FCFFDE ; }
+
+.nav {	font-weight: bold;
+	font-size: .75em;
+}
+
+#content {  background-color: #311001;
+           color: #FCFFDE;
+		   padding: 10px 20px;
+	       overflow: auto; 
+}
+#footer { font-size: .75em;
+          font-style: italic;
+	 text-align: center;
+         padding: 10px;
+		 background-color: #30282C;
+		 clear: both;
+}
+
+.companyname { font-weight:bold;
+        font-family: Constantia, serif;
+        font-size:1.25em;
+}
+img {border-style: none; }
